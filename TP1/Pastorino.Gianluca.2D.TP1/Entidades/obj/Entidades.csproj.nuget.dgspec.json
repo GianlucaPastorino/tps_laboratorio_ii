@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programación\\.UTN\\Tercer cuatrimestre\\Prog y Labo II\\Proyectos\\TPS\\Pastorino.Gianluca.2D.TP1\\Entidades\\Entidades.csproj": {}
+    "D:\\Programación\\.UTN\\Tercer cuatrimestre\\Prog y Labo II\\Proyectos\\Repo TPS\\tps_laboratorio_ii\\TP1\\Pastorino.Gianluca.2D.TP1\\Entidades\\Entidades.csproj": {}
   },
   "projects": {
-    "D:\\Programación\\.UTN\\Tercer cuatrimestre\\Prog y Labo II\\Proyectos\\TPS\\Pastorino.Gianluca.2D.TP1\\Entidades\\Entidades.csproj": {
+    "D:\\Programación\\.UTN\\Tercer cuatrimestre\\Prog y Labo II\\Proyectos\\Repo TPS\\tps_laboratorio_ii\\TP1\\Pastorino.Gianluca.2D.TP1\\Entidades\\Entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programación\\.UTN\\Tercer cuatrimestre\\Prog y Labo II\\Proyectos\\TPS\\Pastorino.Gianluca.2D.TP1\\Entidades\\Entidades.csproj",
+        "projectUniqueName": "D:\\Programación\\.UTN\\Tercer cuatrimestre\\Prog y Labo II\\Proyectos\\Repo TPS\\tps_laboratorio_ii\\TP1\\Pastorino.Gianluca.2D.TP1\\Entidades\\Entidades.csproj",
         "projectName": "Entidades",
-        "projectPath": "D:\\Programación\\.UTN\\Tercer cuatrimestre\\Prog y Labo II\\Proyectos\\TPS\\Pastorino.Gianluca.2D.TP1\\Entidades\\Entidades.csproj",
+        "projectPath": "D:\\Programación\\.UTN\\Tercer cuatrimestre\\Prog y Labo II\\Proyectos\\Repo TPS\\tps_laboratorio_ii\\TP1\\Pastorino.Gianluca.2D.TP1\\Entidades\\Entidades.csproj",
         "packagesPath": "C:\\Users\\Gianluca\\.nuget\\packages\\",
-        "outputPath": "D:\\Programación\\.UTN\\Tercer cuatrimestre\\Prog y Labo II\\Proyectos\\TPS\\Pastorino.Gianluca.2D.TP1\\Entidades\\obj\\",
+        "outputPath": "D:\\Programación\\.UTN\\Tercer cuatrimestre\\Prog y Labo II\\Proyectos\\Repo TPS\\tps_laboratorio_ii\\TP1\\Pastorino.Gianluca.2D.TP1\\Entidades\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gianluca\\AppData\\Roaming\\NuGet\\NuGet.Config",

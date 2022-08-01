@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programación\\.UTN\\Tercer cuatrimestre\\Prog y Labo II\\Proyectos\\TPS\\Pastorino.Gianluca.2D.TP1\\MiCalculadora\\MiCalculadora.csproj",
+      "projectUniqueName": "D:\\Programación\\.UTN\\Tercer cuatrimestre\\Prog y Labo II\\Proyectos\\Repo TPS\\tps_laboratorio_ii\\TP1\\Pastorino.Gianluca.2D.TP1\\MiCalculadora\\MiCalculadora.csproj",
       "projectName": "MiCalculadora",
-      "projectPath": "D:\\Programación\\.UTN\\Tercer cuatrimestre\\Prog y Labo II\\Proyectos\\TPS\\Pastorino.Gianluca.2D.TP1\\MiCalculadora\\MiCalculadora.csproj",
+      "projectPath": "D:\\Programación\\.UTN\\Tercer cuatrimestre\\Prog y Labo II\\Proyectos\\Repo TPS\\tps_laboratorio_ii\\TP1\\Pastorino.Gianluca.2D.TP1\\MiCalculadora\\MiCalculadora.csproj",
       "packagesPath": "C:\\Users\\Gianluca\\.nuget\\packages\\",
-      "outputPath": "D:\\Programación\\.UTN\\Tercer cuatrimestre\\Prog y Labo II\\Proyectos\\TPS\\Pastorino.Gianluca.2D.TP1\\MiCalculadora\\obj\\",
+      "outputPath": "D:\\Programación\\.UTN\\Tercer cuatrimestre\\Prog y Labo II\\Proyectos\\Repo TPS\\tps_laboratorio_ii\\TP1\\Pastorino.Gianluca.2D.TP1\\MiCalculadora\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Gianluca\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
           "projectReferences": {
-            "D:\\Programación\\.UTN\\Tercer cuatrimestre\\Prog y Labo II\\Proyectos\\TPS\\Pastorino.Gianluca.2D.TP1\\Entidades\\Entidades.csproj": {
-              "projectPath": "D:\\Programación\\.UTN\\Tercer cuatrimestre\\Prog y Labo II\\Proyectos\\TPS\\Pastorino.Gianluca.2D.TP1\\Entidades\\Entidades.csproj"
+            "D:\\Programación\\.UTN\\Tercer cuatrimestre\\Prog y Labo II\\Proyectos\\Repo TPS\\tps_laboratorio_ii\\TP1\\Pastorino.Gianluca.2D.TP1\\Entidades\\Entidades.csproj": {
+              "projectPath": "D:\\Programación\\.UTN\\Tercer cuatrimestre\\Prog y Labo II\\Proyectos\\Repo TPS\\tps_laboratorio_ii\\TP1\\Pastorino.Gianluca.2D.TP1\\Entidades\\Entidades.csproj"
             }
           }
         }
